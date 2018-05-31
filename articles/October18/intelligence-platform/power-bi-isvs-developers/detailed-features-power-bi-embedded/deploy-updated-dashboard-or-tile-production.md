@@ -25,5 +25,5 @@ Enhancing Application Lifecycle Management (ALM) by enabling changes in
 tiles/dashboards that are already deployed, while preserving their original IDs.
 Once a dashboard or a tile has been updated to a newer version, the developer
 can deploy the update into production dashboards by using the ‘updateTile’ API
-and stating the source and target tiles. The content of the tile will be
-updated, but the IDs will not change, making the update smooth and fast.
+and stating the source and target tiles. 
+The content of the tile will be updated, but the IDs will not change, making the update smooth and fast.
