@@ -1,0 +1,4 @@
+As a Power BI PRO user I can:
+Select a workspace and mark it as the source for an AppSource App
+Create a package based on workspace content + workspace settings 
+Deploy package to AppSource as a Power BI AppSource App that can be installed and configured in ay other Power BI tenant
