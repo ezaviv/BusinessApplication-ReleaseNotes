@@ -1,0 +1,6 @@
+The ALM story includes the following capabilities
+An App is based on a Power BI Workspace with additional settings (parameters)
+There are 3 release levels for an App: Workspace (WIP) --> Package (release candidate) --> Published App (content that is publicly available to install through AppSource)
+On each release level we keep a single version, 1 workspace in WIP, 1 package, 1 Published App
+to make an update to a published App you deploy a package, deploying a package will overwrite the published App in AppSource
+Bulding the App can continue at all times on the WIP workspace, whenever your ready to create a release candidta --> save a package
